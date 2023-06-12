@@ -1,6 +1,6 @@
 Text editor Intro:
 The project involves building a text editor in Java, using Java Swing for creating a graphical user interface.
-The text editor will have a window (frame) with a menu bar, consisting of two menus - file menu and edit menu.
+The text editor will have a window (frame) with a menu bar, consisting of two menus - file menu and edit menu..
 The file menu will have features like new window, save file, and open file.
 The edit menu will have five functions - Cut, Copy, Paste, Select All, and Close button.
 The text area inside the window will be used for writing and editing the text.
